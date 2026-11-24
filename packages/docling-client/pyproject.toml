@@ -47,7 +47,7 @@ requires-python = '>=3.10,<4.0'
 # Meta-package: pulls in docling-slim with the service-client extra.
 # The `docling` Python module itself is provided by docling-slim.
 dependencies = [
-  'docling-slim[service-client]==2.126.0',
+  'docling-slim[service-client]==2.132.0',
 ]
 
 [project.urls]
